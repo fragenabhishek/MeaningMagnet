@@ -13,13 +13,13 @@ Open Chrome and go to chrome://extensions/.
 Enable "Developer mode" in the top right.
 Click "Load unpacked" and select the folder where you cloned the repository.
 
-**Usage**
+## Usage
 Navigate to any webpage.
 Click on the MeaningMagnet extension icon in the toolbar.
 Click the "Activate" button in the popup.
 Click on any word on the webpage to see the word information.
 
-**Contributing**
+## Contributing
 If you want to contribute to this project, follow these steps:
 
 *Fork the repository.*
