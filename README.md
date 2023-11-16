@@ -1,17 +1,13 @@
 # MeaningMagnet
 
-## Description
 MeaningMagnet is a Chrome extension that allows users to get information about words from Wikipedia by clicking on them.
 
-## Features
-- Word Information: Click on any word on a webpage to get detailed information from Wikipedia.
-- Easy Activation: Activate the extension with a single click from the extension popup.
-
 ## Installation
-1. Clone the repository:
+
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/fragenabhishek/MeaningMagnet.git
-Load the extension in Chrome:
+   Load the extension in Chrome:
 Open Chrome and go to chrome://extensions/.
 Enable "Developer mode" in the top right.
 Click "Load unpacked" and select the folder where you cloned the repository.
